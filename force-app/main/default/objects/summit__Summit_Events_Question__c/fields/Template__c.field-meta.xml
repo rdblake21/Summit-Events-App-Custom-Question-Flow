@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Template__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Leveraged as part of a flow for utilization on other events</description>
+    <inlineHelpText>Check if you want to leverage this Custom Question as a template for other events.</inlineHelpText>
+    <label>Template</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

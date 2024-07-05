@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuickAction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Ability to create custom questions based on template questions</description>
+    <flowDefinition>Summit_Events_Custom_Question_Flow</flowDefinition>
+    <label>Create Custom Questions</label>
+    <optionsCreateFeedItem>false</optionsCreateFeedItem>
+    <type>Flow</type>
+</QuickAction>
